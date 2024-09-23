@@ -1,5 +1,3 @@
-# SquidBots Documentation
-
 # General Usage
 
 SquidBots is designed to work in networked games (client), and offline (standalone). When testing in editor, it is recommended to play in standalone.  
