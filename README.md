@@ -1,3 +1,19 @@
+# SquidBots
+Welcome to the SquidBots documentation! SquidBots is a plug-in for Offworld games, distributed with Squad and the Squad Editor. Anyone can add to this documentation (just make a pull request).
+
+## History
+
+SquidBots started off as a tool for making Squad videos. The existing workflow of pre-recording your Squad character in PIE and saving out the animation was too time consuming, so I set out to automate some of the processes. The systems created let you entirely keyframe a soldier:
+https://www.youtube.com/watch?v=Hsl5ra6ZXPk
+https://www.youtube.com/watch?v=bg5m2shm6u4
+https://www.youtube.com/watch?v=_tUPQV_SIwk.
+
+These allowed for the creation of videos like:
+https://www.youtube.com/watch?v=jOxBIEK172I
+https://www.youtube.com/watch?v=wms8ZEtVQhg.
+
+The systems became large enough that I started messing around with having behaviour trees automatically keyframe soldiers, which grew to become advanced solider AI capable of playing Squad.
+
 # General Usage
 
 SquidBots is designed to work in networked games (client), and offline (standalone). When testing in editor, it is recommended to play in standalone.  
